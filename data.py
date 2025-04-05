@@ -1,7 +1,3 @@
-import configuration
-import requests
-import data
-
 headers = {
     "Content-Type": "application/json"
 }
